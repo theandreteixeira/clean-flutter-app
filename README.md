@@ -4,14 +4,12 @@
 ![Flutter Version](https://img.shields.io/static/v1?label=flutter&message=2.5.1&color=42a5f5)
 ![Null Safety](https://img.shields.io/static/v1?label=null-safety&message=done&color=success)
 
-# **4Dev Flutter - Enquetes para Programadores**
+# ** Flutter - Enquetes para Programadores**
 
-Essa aplicativo foi desenvolvido por André Teixeira Silva e faz parte do treinamento do professor Rodrigo Manguinho na Udemy.
+Essa aplicativo foi desenvolvido por André Teixeira Silva.
 
 O conteúdo desenvolvido por mim no treinamento foi: como criar um aplicativo com Flutter usando uma arquitetura bem definida e desacoplada, seguindo TDD (programação orientada a testes) como metodologia de trabalho, Clean Architecture para fazer a distribuição de responsabilidades em camadas, sempre seguindo os princípios do SOLID e aplicando Design Patterns para resolver alguns problemas comuns.
 <br /><br />
-
-## [**Link para a documentação da API**](http://fordevs.herokuapp.com/api-docs)
 
 > ## Princípios aprendidos
 
